@@ -1,0 +1,25 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "ownerID": 1,
+      "name": "Scooby",
+      "breed": "Great Dane",
+      "weight": 70
+    },
+    {
+      "id": 2,
+      "ownerID": 1,
+      "name": "Bluey",
+      "breed": "Blue Heeler",
+      "weight": 15
+    },
+    {
+      "id": 3,
+      "ownerID": 2,
+      "name": "Max",
+      "breed": "Beagle",
+      "weight": 10
+    }
+  ]
+}
